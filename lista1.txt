@@ -1,0 +1,13 @@
+ O volume na unidade C ‚ Acer
+ O N£mero de S‚rie do Volume ‚ 6928-DD90
+
+ Pasta de C:\Users\hiper\GeradorOrcamentos
+
+01/10/2024  12:56    <DIR>          .
+01/10/2024  12:54    <DIR>          ..
+01/10/2024  10:13               694 gerador-pdfs.py
+01/10/2024  12:56                 0 lista1.txt
+01/10/2024  10:13           108.108 Or‡amento.pdf
+01/10/2024  02:38           107.942 template.png
+               4 arquivo(s)        216.744 bytes
+               2 pasta(s)   142.083.309.568 bytes dispon¡veis
