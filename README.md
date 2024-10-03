@@ -22,4 +22,9 @@
 ## Utilização:
   - Automatizar a tarefa de preenchimento de arquivo customizado, para estudar conceitos básicos da linguagem Python.
 
-// H. LEMES // 
+
+### Exemplo de resultado da execução do código:
+![image](https://github.com/user-attachments/assets/40066aaa-bced-4196-b03c-51fe774cb63d)
+
+
+## H. LEMES // 
