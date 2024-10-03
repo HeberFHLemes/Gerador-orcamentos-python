@@ -26,5 +26,5 @@ pdf.text(115, 215, prazo)
 pdf.text(118, 243, str(valor_total) + ",00")
 
 # Execução final / Exportação para o arquivo "orcamento.pdf"
-pdf.output("Orçamento.pdf")
+pdf.output("orcamento.pdf")
 print("Orçamento gerado com sucesso!")
